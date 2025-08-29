@@ -105,7 +105,7 @@ print(f"Recommended movies for User 1: {recommended_movies}")
     -   Which method (Content-Based vs Collaborative) worked better?
     -   What challenges did you face (e.g., missing data, new
         users/items)?
-
+- Push your code to the GITHUB repositery and atatch the link for submission
 ------------------------------------------------------------------------
 
 ## Extension (Optional)

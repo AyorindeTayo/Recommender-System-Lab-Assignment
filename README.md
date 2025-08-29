@@ -26,16 +26,10 @@ recommendations using similarity measures.
 
 We will use a small **Movie Dataset** with the following structure:
 
-  user_id   movie_title        rating
-  --------- ------------------ --------
-  1         Toy Story          5
-  1         Jumanji            3
-  2         Toy Story          4
-  2         Grumpier Old Men   5
-  3         Jumanji            4
 
-👉 Create a CSV file named `movies.csv` with sample data like above.
 
+
+The data is attached in the repository 
 ------------------------------------------------------------------------
 
 ## Exercise Steps

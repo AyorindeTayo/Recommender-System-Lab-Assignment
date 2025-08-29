@@ -97,7 +97,7 @@ print(f"Recommended movies for User 1: {recommended_movies}")
 
 ### 5. Experiment
 
--   Add more movies and ratings to `movies.csv`.\
+
 -   Try **Content-Based Filtering** using movie genres.\
 -   Compare results from different approaches.
 
